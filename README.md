@@ -21,7 +21,7 @@ The dataset contains various details about customer bookings, preferences, and f
 
 **Wants Extra Baggage:** Whether the customer opted for extra baggage.
 
-## Key Objectives
+## Key Objective
 
 Perform EDA to understand customer behavior and booking patterns.
 
